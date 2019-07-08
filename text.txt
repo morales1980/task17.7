@@ -1,0 +1,3 @@
+lorem 
+
+Some text we gonna put into text.txt file:)
